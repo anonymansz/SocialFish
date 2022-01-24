@@ -62,4 +62,4 @@ For more information please visit the [No Code of Conduct homepage](https://gith
 [tw-fernando]: https://twitter.com/ErvalhouS
 [sf-sharknet]: https://github.com/UndeadSec/SocialFish/releases/tag/sharkNet
 
-# [Solved]: (https://github.com/anonymansz/SocialFish) [ModuleNotFoundError: No module named 'flask.app']
+[Solved]: (https://github.com/anonymansz/SocialFish) [ModuleNotFoundError: No module named 'flask.app']
