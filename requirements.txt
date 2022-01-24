@@ -7,3 +7,7 @@ colorama
 Flask_Login
 nmap
 python-secrets
+secrets
+python-nmap
+secure-smtplib
+sphinx
