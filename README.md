@@ -1,4 +1,4 @@
-[Solved]: (https://github.com/anonymansz/SocialFish)[ModuleNotFoundError: No module named 'flask.app']
+[Solved]:(https://github.com/anonymansz/SocialFish)[ModuleNotFoundError: No module named 'flask.app']
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
