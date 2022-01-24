@@ -1,3 +1,4 @@
+[Solved]: (https://github.com/anonymansz/SocialFish) [ModuleNotFoundError: No module named 'flask.app']
 <p align="center">
   <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
 </a></p>
@@ -61,5 +62,3 @@ For more information please visit the [No Code of Conduct homepage](https://gith
 [git-fernando]: https://github.com/ErvalhouS
 [tw-fernando]: https://twitter.com/ErvalhouS
 [sf-sharknet]: https://github.com/UndeadSec/SocialFish/releases/tag/sharkNet
-
-[Solved]: (https://github.com/anonymansz/SocialFish) [ModuleNotFoundError: No module named 'flask.app']
