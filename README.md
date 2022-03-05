@@ -24,7 +24,9 @@ Setup instructions [here](https://github.com/UndeadSec/SocialFish/wiki/Setting-U
 
 - **Fernando Bellincanta**, Twitter: [@ErvalhouS][tw-fernando], GitHub: [@ErvalhouS][git-fernando]
 
-#### Solved:[ModuleNotFoundError: No module named 'flask.app'](https://github.com/anonymansz/SocialFish)
+### Solved:
+
+[ModuleNotFoundError: No module named 'flask.app'](https://github.com/anonymansz/SocialFish)
 
 ### DISCLAIMER
 
