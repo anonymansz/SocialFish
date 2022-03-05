@@ -1,5 +1,3 @@
-#### Solved:[ModuleNotFoundError:No module named 'flask.app'](https://github.com/anonymansz/SocialFish)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
 </a></p>
@@ -25,6 +23,8 @@ Setup instructions [here](https://github.com/UndeadSec/SocialFish/wiki/Setting-U
 #### DOCS
 
 - **Fernando Bellincanta**, Twitter: [@ErvalhouS][tw-fernando], GitHub: [@ErvalhouS][git-fernando]
+
+#### Solved:[ModuleNotFoundError: No module named 'flask.app'](https://github.com/anonymansz/SocialFish)
 
 ### DISCLAIMER
 
